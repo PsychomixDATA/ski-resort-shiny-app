@@ -17,7 +17,7 @@ library(DT)
 # ============================================================
 
 resorts <- readr::read_csv(
-  "resorts_clean_final.csv",
+  "resorts_cl.csv",
   show_col_types = FALSE
 )
 
